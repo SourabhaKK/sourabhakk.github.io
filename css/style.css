@@ -455,7 +455,8 @@ a:hover {
   line-height: 1.8;
   color: var(--color-text-secondary);
   margin-bottom: var(--spacing-sm);
-}
+
+    text-align: justify;}
 
 /* ===================================
    Skills Section
